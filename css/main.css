@@ -54,14 +54,15 @@ h1, h2, h3, h3, h4, h5, h6{
 .menu li a{
   color:  #fff;
   padding: 12px 0;
+
 }
 
 .menu li.active a,
 .menu li a:hover
 {
   color: #6bff3d;
-  border-top: 1px solid #6bff3d;
-  border-bottom: 1px solid #6bff3d;
+  border-top: 2px solid #6bff3d;
+  border-bottom: 2px solid #6bff3d;
 }
 
 
